@@ -518,7 +518,7 @@ section .title::after {
 .contact .contact-content .info .head {
   font-weight: 600;
 }
-.contact .contact-content .info .sub-title {
+.contact .contact-content .info .sub-title a {
   color: #fff;
 }
 .contact .right .text {
